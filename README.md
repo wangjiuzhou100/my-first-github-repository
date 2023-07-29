@@ -6,3 +6,5 @@ This line was modified manually during conflicts resolution.
 This file was modified locally again.
 
 Readme.md was modified locally for syncing using vscode
+
+readme.md was modified locally for GitHub Desktop to push.
